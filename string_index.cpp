@@ -2,7 +2,7 @@
  ==============================================================================
  Name        : String_index.cpp
  Author      : Siddhata Patil
- Copyright   : Your copyright notice
+ Copyright   : Copyright (c) Siddhata Patil. All rights reserved.
  Description : Find the starting index that starts the window with maximum number 
                of same charachters one after the other using cpp
  ==============================================================================
