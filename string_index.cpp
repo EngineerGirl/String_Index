@@ -7,6 +7,12 @@
                of same charachters one after the other using cpp
  ==============================================================================
  */
+ 
+ #include <iostream>
+#include <string>
+#include <cstdlib>
+#include <ctime>
+
 	int index=0;
 	int max_count=0;
 	int count = 0;
