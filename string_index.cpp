@@ -12,6 +12,7 @@
 #include <string>
 #include <cstdlib>
 #include <ctime>
+using namespace std;
 
 	int index=0;
 	int max_count=0;
