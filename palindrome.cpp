@@ -1,6 +1,6 @@
 /*
  ==============================================================================================================================
- Name        : string_length.cpp
+ Name        : palindrome.cpp
  Author      : Siddhata Patil
  Copyright   : Copyright ©  Siddhata Patil. Sourcecode rights reserved.
  Question    : Implement if string is a Palindrome or not
