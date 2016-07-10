@@ -1,6 +1,6 @@
 /*
  ==============================================================================================================================
- Name        : string_length.cpp
+ Name        : string_reverse.cpp
  Author      : Siddhata Patil
  Copyright   : Copyright ©  Siddhata Patil. Sourcecode rights reserved.
  Question    : Implement reverse of a string
